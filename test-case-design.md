@@ -1,6 +1,6 @@
 # Test Case for Bid Optimization Feature
 
-| **Test Case ID** | **Description** | **Inputs** | **Expected Outputs** | **Notes** |
+| **ID** | **Description** | **Inputs** | **Expected Outputs** | **Notes** |
 | ---------------- | --------------- | ---------- | -------------------- | --------- |
 | TC001 | Validate aggregation of performance metrics by keyword group | Data with multiple targets having the same `Group ID`, `Keyword Text`, `Match Type`, and `Campaign Type`. | Aggregated performance metrics (e.g., clicks, impressions, CTR) calculated correctly for each keyword group. | Ensure data includes targets with overlapping and unique group IDs. |
 | TC002 | Validate bid calculation using the "average bid" method | Keyword group with multiple targets and their associated bids. | Effective bid calculated as the average of all target bids within the group. | Test with varied bid amounts (e.g., $1.50, $2.00, $3.00).  |
