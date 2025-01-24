@@ -4,8 +4,11 @@ We are enhancing our bid optimization process based on observed limitations with
 ## Time-Based Bidding Versions:
 
 **1. Weekday_day:** Monday - Friday from 4 AM to 7 PM (not inclusive)
+
 **2. Weekday_night:** Monday - Friday from 7 PM to 4 AM (not inclusive)
+
 **3. Weekend_day:** Saturday - Sunday from 4 AM to 7 PM (not inclusive)
+
 **4. Weekend_night:** Saturday - Sunday from 7 PM to 4 AM (not inclusive)
   
 ## New Requirements:
