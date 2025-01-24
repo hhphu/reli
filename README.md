@@ -28,8 +28,8 @@ We are enhancing our bid optimization process based on observed limitations with
 - Save bid updates back into the database.
 
 # TABLE OF CONTENTS
-- [Test Plan Development]()
-- [Bug Report Template]
-- [Bug Report Workflow]
-- [Test Case Design]
+- [Test Plan Development](test-plan-development.md)
+- [Bug Report Template](bug-report-template.md)
+- [Bug Report Workflow](bug-report-workflow.md)
+- [Test Case Design](test-case-design.md)
   
